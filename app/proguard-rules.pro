@@ -1,0 +1,2 @@
+-keep class com.gkmap.bd.** { *; }
+-keepclassmembers class * { @android.webkit.JavascriptInterface <methods>; }
