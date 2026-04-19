@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.GKMap" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#006a4e</item>
+        <item name="colorPrimaryVariant">#004d38</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:windowBackground">#080d1a</item>
+        <item name="android:statusBarColor">#080d1a</item>
+        <item name="android:navigationBarColor">#080d1a</item>
+    </style>
+</resources>
